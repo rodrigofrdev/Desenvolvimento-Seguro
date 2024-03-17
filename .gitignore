@@ -1,0 +1,28 @@
+# Arquivos de build
+/build
+/dist
+
+# Arquivos de log
+/logs
+
+# Arquivos de configuração local
+/.env
+
+# Arquivos de cache
+/.cache
+
+# Arquivos gerados pelo editor
+.vscode
+.idea
+
+# Arquivos de backup
+*.bak
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar node_modules
+node_modules/
